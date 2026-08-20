@@ -1,13 +1,1 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "A7H232Z8QB.ysk.XRMPSDemo.dev",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
-}
+{"applinks":{"apps":[],"details":[{"appID":"A7H232Z8QB.ysk.XRMPSDemo.dev","paths":["*"]}]}}
