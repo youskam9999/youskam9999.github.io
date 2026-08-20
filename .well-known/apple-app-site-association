@@ -7,12 +7,6 @@
         "paths": [
           "*"
         ]
-      },
-      {
-        "appID": "A7H232Z8QB.ysk.external-demo-app-test",
-        "paths": [
-          "*"
-        ]
       }
     ]
   }
